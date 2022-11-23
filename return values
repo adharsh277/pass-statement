@@ -1,0 +1,15 @@
+# 652 RETURN VALUES
+
+
+def my_function(x):
+    return 2*x
+
+
+print(my_function(87))
+print(my_function(7))
+print(my_function(17))
+# PASS STATEMENT
+
+
+def my_function(x):
+    pass
